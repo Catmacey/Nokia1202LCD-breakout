@@ -8,3 +8,5 @@ It's tiny but still within the bounds of hand soldering.
 
 The board is modelled on the Sparkfun 5110 breakout and shares 
 the same pin-out in order to drop into an existing project.
+
+![My image](IMG_3612.JPG)
